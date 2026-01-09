@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "仮面ライダーAGITO",
+  "base_artist": "石原慎一",
+  "createdAt": "2026-01-09T08:02:04.587818Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "仮面ライダーAGITO",
+      "artist": "Shinichi Ishihara",
+      "has_synced": true,
+      "path": "select/01_仮面ライダーAGITO_Shinichi_Ishihara.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "仮面ライダーAGITO",
+      "artist": "石原慎一",
+      "has_synced": true,
+      "path": "select/02_仮面ライダーAGITO_石原慎一.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "仮面ライダーAGITO - 24.7 Version",
+      "artist": "Shinichi Ishihara",
+      "has_synced": false,
+      "path": "select/03_仮面ライダーAGITO_-_24.7_Version_Shinichi_Ishihara.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "仮面ライダーAGITO - RIDER CHIPS Ver.",
+      "artist": "RIDER CHIPS",
+      "has_synced": true,
+      "path": "select/04_仮面ライダーAGITO_-_RIDER_CHIPS_Ver._RIDER_CHIPS.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "仮面ライダーAGITO (仮面ライダーアギト)",
+      "artist": "石原慎一",
+      "has_synced": true,
+      "path": "select/05_仮面ライダーAGITO_(仮面ライダーアギト)_石原慎一.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "仮面ライダーAGITO (RIDER CHIPS Ver.)",
+      "artist": "RIDER CHIPS",
+      "has_synced": false,
+      "path": "select/06_仮面ライダーAGITO_(RIDER_CHIPS_Ver.)_RIDER_CHIPS.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "仮面ライダーAGITO",
+      "artist": "石原 慎一",
+      "has_synced": false,
+      "path": "select/pl_01_仮面ライダーAGITO_石原_慎一.txt"
+    }
+  ]
+}
